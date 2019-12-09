@@ -1,2 +1,2 @@
-# sanyakhan.github.io
+# http://sanyakhan.github.io
 Eco Criticism Project 
